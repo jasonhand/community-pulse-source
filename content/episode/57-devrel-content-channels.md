@@ -11,7 +11,7 @@ episode_image = "/img/episode/57-devrel-content-channels.jpg"
 episode_banner = "/img/episode/57-devrel-content-channels-banner.jpg"
 sponsors = ["circleci"]
 youtube = "MQvO0fFgECY"
-draft = true
+draft = false
 +++
 
 ### Check Outs
