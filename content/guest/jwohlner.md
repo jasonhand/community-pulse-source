@@ -1,7 +1,7 @@
 +++
 Title = "Jill Wholner"
 date = "2019-03-07T10:24:26-08:00"
-Twitter = "jilljubs"
+Twitter = "jillwohlner"
 Website = ""
 Type = "guest"
 Facebook = ""
