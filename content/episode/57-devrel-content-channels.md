@@ -16,6 +16,10 @@ draft = false
 
 ### Check Outs
 
+#### Mary
+
+- [Maybe You Should Talk to Someone - a fantastic (non-fiction) book about therapy, from a therapist’s viewpoint](https://lorigottlieb.com/books/maybe-you-should-talk-to-someone/)
+
 #### PJ
 
 - Renegades - a podcast from Barack Obama & Bruce Springsteen
@@ -23,8 +27,8 @@ draft = false
 #### Wesley
 
 - Beyond the Gender Binary
--- Demi Lovato
--- Alok Vaid-Menon
+-- [Demi Lovato](https://online.sxsw.com/event/sxsw-online/person/RXZlbnRQZW9wbGVfNjIxNjMwMQ%3D%3D)
+-- [Alok Vaid-Menon](https://online.sxsw.com/event/sxsw-online/person/RXZlbnRQZW9wbGVfNjI4MTQ2MQ%3D%3D)
 -- https://online.sxsw.com/event/sxsw-online/planning/UGxhbm5pbmdfMzUzMDE0
 
 #### Cassidy
