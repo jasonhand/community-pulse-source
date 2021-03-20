@@ -22,7 +22,7 @@ draft = false
 
 #### PJ
 
-- Renegades - a podcast from Barack Obama & Bruce Springsteen
+- [Renegades](https://open.spotify.com/show/42xagXCUDsFO6a0lcHoTlv) - a podcast from Barack Obama & Bruce Springsteen
 
 #### Wesley
 
@@ -33,12 +33,12 @@ draft = false
 
 #### Cassidy
 
-- Itaewon Class - a really good k-drama on Netflix
-- Obsidian for notes (obsidian.md)
+- [Itaewon Class](https://www.netflix.com/title/81193309) - a really good k-drama on Netflix
+- [Obsidian](https://obsidian.md/) for Notes
 
 #### Joe
 
-- Working through the Best Picture Noms
+- Working through the Best Picture Nominations
     - Minari/ Judas and the Black Messiah - My personal favs
     - Nomadland - The one I think will win
 
